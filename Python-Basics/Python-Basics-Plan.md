@@ -14,9 +14,8 @@
 
 ## Day 2: Operators & Expressions
 
-* Arithmetic, Comparison, Assignment Operators
-* Logical operators: `and`, `or`, `not`
-* Bitwise operators (optional)
+* Operators
+* Expressions
 
 **Practice:**
 
