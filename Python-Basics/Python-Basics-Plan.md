@@ -9,7 +9,6 @@
 * Type Fetching
 * Type Conversion
 
-
 ---
 
 ## Day 2: Operators & Expressions
@@ -17,24 +16,13 @@
 * Operators
 * Expressions
 
-**Practice:**
-
-* BMI calculator
-* Discount calculator
-
 ---
 
 ## Day 3: Input/Output and String Basics
 
 * `input()`, `print()`
-* String operations: slicing, formatting
-* String methods: `upper()`, `lower()`, `strip()`, `find()`
-
-**Practice:**
-
-* Palindrome checker
-* Word counter
-* Reverse a string
+* String operations
+* String methods
 
 ---
 
