@@ -28,15 +28,7 @@
 
 ## Day 4: Lists
 
-* Creating & accessing lists
-* List methods: `append()`, `insert()`, `pop()`, `remove()`
-* Slicing & looping
-
-**Practice:**
-
-* Add & remove items
-* Find max/min without built-ins
-* Sort manually
+* lists
 
 ---
 
