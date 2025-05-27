@@ -9,47 +9,26 @@
 * Type Fetching
 * Type Conversion
 
-
 ---
 
 ## Day 2: Operators & Expressions
 
-* Arithmetic, Comparison, Assignment Operators
-* Logical operators: `and`, `or`, `not`
-* Bitwise operators (optional)
-
-**Practice:**
-
-* BMI calculator
-* Discount calculator
+* Operators
+* Expressions
 
 ---
 
 ## Day 3: Input/Output and String Basics
 
 * `input()`, `print()`
-* String operations: slicing, formatting
-* String methods: `upper()`, `lower()`, `strip()`, `find()`
-
-**Practice:**
-
-* Palindrome checker
-* Word counter
-* Reverse a string
+* String operations
+* String methods
 
 ---
 
 ## Day 4: Lists
 
-* Creating & accessing lists
-* List methods: `append()`, `insert()`, `pop()`, `remove()`
-* Slicing & looping
-
-**Practice:**
-
-* Add & remove items
-* Find max/min without built-ins
-* Sort manually
+* lists
 
 ---
 
