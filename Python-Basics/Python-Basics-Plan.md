@@ -34,13 +34,8 @@
 
 ## Day 5: Tuples and Sets
 
-* Tuples: creation, immutability
-* Sets: unique elements, set operations (`union`, `intersection`, etc.)
-
-**Practice:**
-
-* Remove duplicates
-* Count unique words in input
+* Tuples
+* Sets
 
 ---
 
