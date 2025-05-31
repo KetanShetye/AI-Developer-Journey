@@ -47,7 +47,7 @@
 
 ## Day 7: Conditionals
 
-* conditional statments
+* conditional statment
 
 ---
 
