@@ -34,39 +34,20 @@
 
 ## Day 5: Tuples and Sets
 
-* Tuples: creation, immutability
-* Sets: unique elements, set operations (`union`, `intersection`, etc.)
-
-**Practice:**
-
-* Remove duplicates
-* Count unique words in input
+* Tuples
+* Sets
 
 ---
 
 ## Day 6: Dictionaries
 
-* Key-value pairs
-* Accessing, adding, updating values
-* Looping through dictionaries
-
-**Practice:**
-
-* Word frequency counter
-* Create a contact book
+* Dictionaries
 
 ---
 
 ## Day 7: Conditionals
 
-* `if`, `elif`, `else`
-* Nested conditions
-
-**Practice:**
-
-* Grading system
-* Check leap year
-* Number comparison
+* conditional statments
 
 ---
 
@@ -74,12 +55,6 @@
 
 * Looping over ranges, strings, lists
 * Loop control: `break`, `continue`, `pass`
-
-**Practice:**
-
-* Multiplication table
-* Prime numbers
-* Guess the number game
 
 ---
 
