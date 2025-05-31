@@ -56,12 +56,6 @@
 * Looping over ranges, strings, lists
 * Loop control: `break`, `continue`, `pass`
 
-**Practice:**
-
-* Multiplication table
-* Prime numbers
-* Guess the number game
-
 ---
 
 ## Day 9: Functions – Part 1
