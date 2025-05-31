@@ -41,14 +41,7 @@
 
 ## Day 6: Dictionaries
 
-* Key-value pairs
-* Accessing, adding, updating values
-* Looping through dictionaries
-
-**Practice:**
-
-* Word frequency counter
-* Create a contact book
+* Dictionaries
 
 ---
 
