@@ -47,14 +47,7 @@
 
 ## Day 7: Conditionals
 
-* `if`, `elif`, `else`
-* Nested conditions
-
-**Practice:**
-
-* Grading system
-* Check leap year
-* Number comparison
+* conditional statments
 
 ---
 
