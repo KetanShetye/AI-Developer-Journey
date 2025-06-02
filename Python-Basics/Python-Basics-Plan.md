@@ -60,27 +60,36 @@
 
 ## Day 9: Functions – Part 1
 
-* Creating functions: `def`, parameters, return
-* Default arguments
-
-**Practice:**
-
-* Add, subtract, multiply, divide using functions
-* Sum of digits
-* Recursive factorial
+* What is a Function?
+* Types of Functions
+* Built-in Functions
+* User-defined Functions
+* Defining a Function
+* Calling a Function
+* Function with Parameters
+* Function with Multiple Parameters
+* Default Parameters
+* Return Statement
+* Positional vs Keyword Arguments
+* Variable-Length Arguments
+* *args
+* **kwargs
 
 ---
 
 ## Day 10: Functions – Part 2
 
-* Variable scope: local vs global
 * Lambda functions
-* `*args` and `**kwargs` basics
+* Recursion
+* Scope (Local/Global)
+* Closures
+* Decorators
+* First-class & higher-order functions
+* annotations
 
 **Practice:**
 
-* Calculator with lambda
-* Flexible argument function
+
 
 ---
 
