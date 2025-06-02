@@ -85,12 +85,11 @@
 * Closures
 * Decorators
 * First-class & higher-order functions
-* map, filter, reduce
+* annotations
 
 **Practice:**
 
-* Calculator with lambda
-* Flexible argument function
+
 
 ---
 
