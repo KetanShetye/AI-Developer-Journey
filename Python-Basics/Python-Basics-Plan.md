@@ -95,16 +95,9 @@
 
 ---
 
-## Day 12: Exception Handling
+## Day 12: 
 
-* `try`, `except`, `finally`
-* Handling multiple exceptions
-* Custom error messages
-
-**Practice:**
-
-* Division with error handling
-* File not found handler
+* Exception Handling
 
 ---
 
