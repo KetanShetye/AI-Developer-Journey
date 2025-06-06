@@ -87,22 +87,11 @@
 * First-class & higher-order functions
 * annotations
 
-**Practice:**
-
-
-
 ---
 
 ## Day 11: File Handling
 
-* Reading & writing text files
-* File modes: `r`, `w`, `a`, `r+`
-* Using `with open()`
-
-**Practice:**
-
-* Read student data from file
-* Write logs into a file
+* File Handling
 
 ---
 
