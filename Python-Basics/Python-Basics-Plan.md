@@ -87,49 +87,23 @@
 * First-class & higher-order functions
 * annotations
 
-**Practice:**
-
-
-
 ---
 
 ## Day 11: File Handling
 
-* Reading & writing text files
-* File modes: `r`, `w`, `a`, `r+`
-* Using `with open()`
-
-**Practice:**
-
-* Read student data from file
-* Write logs into a file
+* File Handling
 
 ---
 
-## Day 12: Exception Handling
+## Day 12: 
 
-* `try`, `except`, `finally`
-* Handling multiple exceptions
-* Custom error messages
-
-**Practice:**
-
-* Division with error handling
-* File not found handler
+* Exception Handling
 
 ---
 
 ## Day 13: Basic OOP (Object-Oriented Programming)
 
-* Classes and Objects
-* `__init__()` method
-* Instance methods
-* `self` keyword
-
-**Practice:**
-
-* `Student` or `Car` class
-* Class with method to calculate grade or mileage
+* OOP
 
 ---
 
