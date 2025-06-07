@@ -103,15 +103,7 @@
 
 ## Day 13: Basic OOP (Object-Oriented Programming)
 
-* Classes and Objects
-* `__init__()` method
-* Instance methods
-* `self` keyword
-
-**Practice:**
-
-* `Student` or `Car` class
-* Class with method to calculate grade or mileage
+* OOP
 
 ---
 
