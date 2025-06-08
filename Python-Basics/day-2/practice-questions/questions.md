@@ -63,8 +63,3 @@
    - Ask the user for the number of fresh and day-old loaves.
    - Display total cost.
 
-
-## 🧩 Bonus Mini Projects
-
-1. **BMI calculator**
-2. **Discount calculator**

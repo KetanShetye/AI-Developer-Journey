@@ -53,12 +53,3 @@
 
 
 
-
-
-## 🧩 Bonus Mini Projects
-
-1. **Calculator with lambda**
-2. **Flexible argument function**
-
-
-

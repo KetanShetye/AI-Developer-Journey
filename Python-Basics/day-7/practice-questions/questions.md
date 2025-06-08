@@ -45,9 +45,3 @@
 9. How can you implement switch-case like behavior in Python using conditionals or match-case?
 10. Write a program that uses conditionals to assign grades like A+, B-, etc., based on a numeric score.
 
-
-## 🧩 Bonus Mini Projects
-
-1. **Grading system**
-2. **Check leap year**
-3. **Number comparison**

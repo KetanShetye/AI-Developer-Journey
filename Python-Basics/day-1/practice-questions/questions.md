@@ -57,9 +57,3 @@
    - Whether it is mutable or immutable
 
 ---
-
-## 🧩 Bonus Mini Projects
-
-1. **Basic Calculator**
-2. **Swap Two Numbers**
-3. **Type Guessing Game** – Input any value, guess its type, and check if you're right.

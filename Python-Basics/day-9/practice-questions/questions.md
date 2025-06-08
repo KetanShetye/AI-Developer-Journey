@@ -49,13 +49,3 @@
 8. Demonstrate how *args can be used to unpack a list into a function
 9. Write a function that sums only even numbers passed via *args
 10. Can we modify a global variable inside a function? Show with return and without using global
-
-
-## 🧩 Bonus Mini Projects
-
-1. **Add, subtract, multiply, divide using functions**
-2. **Sum of digits**
-3. **Recursive factorial**
-
-
-

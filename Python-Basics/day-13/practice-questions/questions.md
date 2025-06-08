@@ -48,11 +48,3 @@
 9. Use composition to build a class `Computer` that contains `CPU` and `RAM` objects.
 10. Demonstrate serialization and deserialization of objects using `pickle` and JSON.
 
-
-## 🧩 Bonus Mini Projects
-
-1. **`Student` or `Car` class**
-2. **Class with method to calculate grade or mileage**
-
-
-

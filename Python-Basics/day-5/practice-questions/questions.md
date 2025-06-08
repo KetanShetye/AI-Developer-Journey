@@ -47,8 +47,3 @@
 9. Use sets to find all repeated elements in a list.  
 10. Flatten a tuple of tuples into a single tuple.
 
-
-## 🧩 Bonus Mini Projects
-
-1. **Remove duplicates**
-2. **Count unique words in input**
