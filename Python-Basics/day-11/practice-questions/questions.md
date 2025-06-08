@@ -52,11 +52,3 @@
 
 
 
-
-## 🧩 Bonus Mini Projects
-
-1. **Read student data from file**
-2. **Write logs into a file**
-
-
-

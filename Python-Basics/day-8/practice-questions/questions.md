@@ -49,10 +49,3 @@
 8. Implement a program to find the next lexicographical permutation of a list using loops.
 9. Print the Floyd’s triangle up to n rows using loops.
 10. Implement a program to find the maximum sum subarray (Kadane’s algorithm) using loops
-
-
-## 🧩 Bonus Mini Projects
-
-1. **Multiplication table**
-2. **Prime numbers**
-3. **Guess the number game**

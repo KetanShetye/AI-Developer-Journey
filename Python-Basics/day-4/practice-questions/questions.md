@@ -45,9 +45,3 @@
 9. Find k-th largest element in a list
 10. Implement list slicing manually
 
-
-## 🧩 Bonus Mini Projects
-
-1. **Add & remove items**
-2. **Find max/min without built-ins**
-3. **Sort manually**

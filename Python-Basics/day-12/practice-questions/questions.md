@@ -52,11 +52,3 @@
 
 
 
-
-## 🧩 Bonus Mini Projects
-
-1. **Division with error handling**
-2. **File not found handler**
-
-
-

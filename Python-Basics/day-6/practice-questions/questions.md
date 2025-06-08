@@ -44,8 +44,3 @@
 9. Create nested dict from list of tuples
 10. Sort dict by values
 
-
-## 🧩 Bonus Mini Projects
-
-1. **Word frequency counter**
-2. **Create a contact book**
