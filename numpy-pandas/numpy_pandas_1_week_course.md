@@ -35,8 +35,8 @@ This 7-Day Study Plan is designed for Python developers who want to quickly lear
 - DataFrame attributes
 
 ## 🧹 Day 5: Data Cleaning with Pandas
-- Handling missing data: `isna()`, `fillna()`, `dropna()`
-- Duplicates: `duplicated()`, `drop_duplicates()`
+- Handling missing data
+- Duplicates
 - Data type conversions
 - String operations with `.str`
 - Applying functions with `.apply()`
