@@ -29,10 +29,10 @@ This 7-Day Study Plan is designed for Python developers who want to quickly lear
 
 ## 🧾 Day 4: Pandas Basics
 - Series and DataFrame creation
-- Reading data: CSV, Excel, JSON
-- Data inspection: `head()`, `tail()`, `info()`, `describe()`
-- Indexing and slicing: `.loc`, `.iloc`
-- DataFrame attributes: `columns`, `shape`, `dtypes`
+- Reading data
+- Data inspection
+- Indexing and slicing
+- DataFrame attributes
 
 ## 🧹 Day 5: Data Cleaning with Pandas
 - Handling missing data: `isna()`, `fillna()`, `dropna()`
