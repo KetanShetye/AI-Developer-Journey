@@ -47,20 +47,31 @@ This 7-Day Study Plan is designed for Python developers who want to quickly lear
 - Sorting and filtering data
 - Merging & joining DataFrames: `merge()`, `join()`, `concat()`
 
-## 📊 Day 7: Data Analysis Project
-- Load a real-world dataset (e.g., Titanic or Iris)
-- Perform exploratory data analysis (EDA)
-- Clean and preprocess data
-- Analyze using grouping, filtering, and aggregation
-- Export results to CSV
+## 🛠 Day 7: Tips & Best Practices
+- Vectorization over loops
+- Use `.copy()` to avoid SettingWithCopyWarning
+- Profiling performance with `%timeit`
+- Visualizing data using `matplotlib` and `seaborn` (optional)
 
 ---
 
 ## 🛠 Bonus: Tips & Best Practices
 - Vectorization over loops
-- Use `.copy()` to avoid SettingWithCopyWarning
-- Profiling performance with `%timeit`
-- Visualizing data using `matplotlib` and `seaborn` (optional)
+- Use .copy() to avoid SettingWithCopyWarning
+- Profiling performance with %timeit
+- Visualizing data using matplotlib and seaborn
+- Plotting Cheat Sheet: Matplotlib, Seaborn, Pandas
+- Memory optimization in Pandas (e.g., using astype to reduce memory usage)
+- Chained indexing vs. loc/iloc – avoid chained indexing for reliability
+- Working with categorical data using pd.Categorical
+- Datetime handling in Pandas using pd.to_datetime, .dt accessor
+- MultiIndex (Hierarchical indexing) in Pandas for complex datasets
+- Pivot tables and crosstabs using pivot_table() and pd.crosstab()
+- Efficient file I/O – reading large files with chunksize and using parquet for speed
+- Pandas options tuning with pd.set_option() for better display and performance
+- Suppressing scientific notation using pd.set_option('display.float_format', '{:.2f}'.format)
+
+
 
 ## 📚 Resources
 - NumPy Documentation: https://numpy.org/doc/
