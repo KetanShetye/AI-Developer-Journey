@@ -40,26 +40,14 @@ Learn the foundation of statistics and probability to prepare for ML model evalu
   - Probability Density Functions (PDF)
 - Practice:
   - Plot Normal distribution using `matplotlib`, calculate probability areas
-- Resource:
-  - Khan Academy: [Distributions](https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data)
 
 ---
 
-## 🔁 Day 6: Review + Practice Problems
-- Activities:
-  - Solve 10+ MCQs or problems on stats/probability
-  - Revisit areas of confusion
-- Resources:
-  - Khan Academy practice sets + Python coding from previous days
-
----
-
-## ✅ Day 7: Mini Project or Quiz
+## ✅ Day 6: Mini Project or Quiz
 - Choose one:
   - Analyze a dataset using descriptive statistics (e.g., student scores)
   - Build a simple probability simulation (e.g., dice, card draw)
 - Document in Jupyter Notebook or GitHub
 
----
 
-**Tip**: Always apply concepts practically using Python (NumPy, pandas, matplotlib).
+## ✅ Day 6: Revision

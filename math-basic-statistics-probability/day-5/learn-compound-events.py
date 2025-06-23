@@ -1,4 +1,4 @@
-# 🔸 1. Compound Events
+# 🔸 Compound Events
 # A compound event is formed when two or more events happen together. There are two main types:
 # Union (OR) — event A or B occurs
     # P(A U B) = P(A) + P(B) - P(A ∩ B)
